@@ -1,0 +1,2 @@
+# eda_for_linear_regression
+study_case_project_eda
